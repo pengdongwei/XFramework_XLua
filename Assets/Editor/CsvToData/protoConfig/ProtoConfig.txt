@@ -1,0 +1,1 @@
+D:/Project/designer/data	D:/Project/Assets/Resources/ConfigData	D:/Project/Assets/Scripts/GenerateCodes	D:/Project/Assets/Editor/CsvToData/commdefProto	D:/Project/csv2Data/tools
